@@ -1,0 +1,16 @@
+body{
+	width:100%;
+	background-image:url('style/navigator.png') repeat-x;
+}
+#container{
+	width:800px;
+	height:1000px;
+	margin:0 auto;
+	background-color:white;
+}
+#navigator{
+	width:800px;
+	height:20px;
+	float:left;
+	background-color:#42adda;
+}
